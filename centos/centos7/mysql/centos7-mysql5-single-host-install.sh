@@ -5,6 +5,7 @@
 # Please make sure that you're in root mode
 # MySQL version: 5.7
 # This script will remove your previous installtion, be cautious
+# =====================================================================
 
 # Uninstall previous mysql installation and remove residual files
 systemctl stop mysqld
